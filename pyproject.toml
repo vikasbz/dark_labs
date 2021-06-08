@@ -2,7 +2,7 @@
 name = "dark_labs"
 version = "0.1.0"
 description = ""
-authors = ["Vikas Z <Vikas Z <vikas.zingade@skillate.com>>"]
+authors = ["Vikas Z <Vikas Z <vikas.zingade@gmail.com>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
